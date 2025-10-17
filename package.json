@@ -1,0 +1,24 @@
+{
+  "name": "webdevproject2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anne-mart/WebDevProject2.git"
+  },
+  "keywords": [],
+  "author": "Anne Martin <mart1095@ssthomas.edu",
+  "contributors" :[
+    "Ada Huang <ada.huang@stthomas.edu>",
+    "Vincent Lam <lam01969@stthomas.edu>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anne-mart/WebDevProject2/issues"
+  },
+  "homepage": "https://github.com/anne-mart/WebDevProject2#readme",
+  "description": ""
+}
